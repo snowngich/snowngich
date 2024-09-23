@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NJOROGE
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning software engineering
+- 👀 Im a software developer
 - 💞️ I’m looking to collaborate on this field
 
 <!---
