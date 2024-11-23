@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NJOROGE
+- 👋 Hi, I’m NJOROGE
 - 👀 Im a software developer
 - 💞️ I’m looking to collaborate on this field
 
