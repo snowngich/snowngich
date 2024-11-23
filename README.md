@@ -1,6 +1,6 @@
 - 👋 Hi, I’m NJOROGE
-- 👀 Im a software developer
-- 💞️ I’m looking to collaborate on this field
+- 👀 Im a software developer and a Data Enthusiast
+- 💞️ I’m looking to collaborate onthese fields
 
 <!---
  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
